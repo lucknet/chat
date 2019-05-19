@@ -1,2 +1,3 @@
-# chat
-Luck Network - Player's chat logging (used in order to punish spamming / dis-respecting chat)
+# lucknet / chat
+
+全プレイヤーのチャットの記録. スパム または 差別発言等を処罰するために使われます.
