@@ -1,0 +1,121 @@
+00:00:31: dedetyan@Vanilla: /tp NoHackJustPvP
+00:00:42: dedetyan@Vanilla: /gm 1
+00:01:33: dedetyan@Vanilla: /gm 3
+00:01:40: dedetyan@Vanilla: /gm 1
+00:06:26: dedetyan@Vanilla: /tp NoHackJustPvP
+00:06:28: dedetyan@Vanilla: /tp NoHackJustPvP
+00:06:30: dedetyan@Vanilla: /tp NoHackJustPvP
+00:14:25: dedetyan@Vanilla: /gm 3
+00:29:08: dedetyan@Vanilla: /server Vanilla-v1.14
+00:29:16: dedetyan@Vanilla-v1.14: /hd
+01:50:55: dedetyan@Lobby_01: /jecon
+01:51:10: dedetyan@Lobby_01: /money top
+01:52:27: dedetyan@Lobby_01: /stop
+01:53:33: dedetyan@Lobby_01: /jecon
+01:53:36: dedetyan@Lobby_01: /jecon top
+01:54:37: dedetyan@Lobby_01: /papi list
+01:55:16: dedetyan@Lobby_01: /animatedmenu reload
+01:57:13: dedetyan@Lobby_01: /dmenu reload
+01:58:03: dedetyan@Lobby_01: /dmenu reload
+01:58:31: dedetyan@Lobby_01: /dmenu reload
+01:58:38: dedetyan@Lobby_01: /dmenu reload
+01:59:10: dedetyan@Lobby_01: /dmenu reload
+01:59:51: dedetyan@Lobby_01: /vote Top
+02:00:04: dedetyan@Lobby_01: /vote Top 1
+02:00:11: dedetyan@Lobby_01: /vote Top 2
+02:00:20: dedetyan@Lobby_01: /vote Top 1 ALL
+02:00:24: dedetyan@Lobby_01: /vote Top ALL
+02:00:27: dedetyan@Lobby_01: /vote Top 1 ALL
+02:00:52: dedetyan@Lobby_01: /vote Top
+02:03:58: dedetyan@Lobby_01: /vote Top
+02:04:01: dedetyan@Lobby_01: /vote Top 1 ALL
+02:04:05: dedetyan@Lobby_01: /vote Top 1 ALL
+02:04:09: dedetyan@Lobby_01: /vote Top 1
+02:04:11: dedetyan@Lobby_01: /vote Top 1 ALL
+02:04:15: dedetyan@Lobby_01: /vote Top
+02:05:13: dedetyan@Lobby_01: /vote Top
+02:05:15: dedetyan@Lobby_01: /vote Top 1 ALL
+02:07:23: dedetyan@Lobby_01: /votingplugin reload
+02:07:35: dedetyan@Lobby_01: /votingplugin:adminvotereload
+02:07:49: dedetyan@Lobby_01: /vote Top 1 ALL
+02:09:54: dedetyan@Lobby_01: /votingplugin:adminvotereload
+02:10:52: dedetyan@Lobby_01: /votingplugin:adminvotereload
+02:11:07: dedetyan@Lobby_01: /animatedmenu reload
+02:17:00: dedetyan@Lobby_01: /end
+02:19:07: dedetyan@Lobby_01: /friend
+02:19:14: dedetyan@Lobby_01: /friend list
+20:28:24: dedetyan@Vanilla: /lp editor
+20:32:09: dedetyan@Vanilla: /gm 1
+20:34:15: dedetyan@Vanilla: /tp Napstablock dedetyan
+20:38:32: dedetyan@Vanilla: /lp user Napstablock info
+21:42:46: dedetyan@Vanilla: /lp user Napstablock parent remove mvp+
+21:44:10: dedetyan@Vanilla: /lp user Napstablock parent remove member
+21:44:27: dedetyan@Vanilla: /lp user Napstablock parent add owner
+21:44:48: dedetyan@Vanilla: /lp user Napstablock parent remove owner
+21:45:01: dedetyan@Vanilla: /lp user Napstablock info
+21:45:43: dedetyan@Vanilla: /lp group default info
+21:45:49: dedetyan@Vanilla: /lp group norank info
+21:45:59: dedetyan@Vanilla: /lp group norank meta
+21:46:09: dedetyan@Vanilla: /lp group norank listmembers
+21:46:27: dedetyan@Vanilla: /lp group norank listmembers
+21:46:31: dedetyan@Vanilla: /lp group norank editor
+21:55:31: dedetyan@Vanilla: /lp user Napstablock info
+21:55:38: dedetyan@Vanilla: /lp user Napstablock parent set beginner
+21:55:39: dedetyan@Vanilla: /lp user Napstablock info
+21:58:40: dedetyan@Vanilla: /lp user Napstablock parent remove beginner
+21:58:42: dedetyan@Vanilla: /lp user Napstablock info
+21:58:51: dedetyan@Vanilla: /lp user Napstablock parent add beginner
+21:58:52: dedetyan@Vanilla: /lp user Napstablock info
+21:59:13: dedetyan@Vanilla: /lp user Napstablock parent remove beginner
+21:59:17: dedetyan@Vanilla: /lp user Napstablock parent set beginner
+21:59:18: dedetyan@Vanilla: /lp user Napstablock info
+22:06:12: dedetyan@Lobby_01: /lp user Napstablock parent add mvp+
+22:09:11: dedetyan@Lobby_01: /gm
+22:09:13: dedetyan@Lobby_01: /gamemode 1
+22:09:52: dedetyan@Lobby_01: /papi ecloud download LuckPerms
+22:18:11: dedetyan@Lobby_01: /send current Build
+22:18:31: dedetyan@Build: /mvtp @a world_flat
+22:18:35: dedetyan@Build: /mvtp NoHackJustPvP world_flat
+22:18:40: dedetyan@Build: /mvtp world_flat
+22:18:57: dedetyan@Build: /gamemode creative NoHackJustPvP
+22:21:17: dedetyan@Build: /ver
+22:21:22: dedetyan@Build: /stop
+22:21:39: dedetyan@Lobby_01: /send current Build
+22:21:47: dedetyan@Build: /mvtp world_lobby
+22:21:56: dedetyan@Build: /mvtp import world_lobby
+22:22:01: dedetyan@Build: /mvtp import world_lobby normal
+22:22:08: dedetyan@Build: /mv import world_lobby normal
+22:22:20: dedetyan@Build: /mv import world_lobby normal
+22:22:24: dedetyan@Build: /mvtp import world_lobby
+22:22:28: dedetyan@Build: /mvtp world_lobby
+22:22:32: dedetyan@Build: /mvconfirm
+22:22:53: dedetyan@Build: /gamemode 1
+22:23:09: dedetyan@Build: /tp 155 80 147
+22:23:21: dedetyan@Build: /mv setspawn
+22:23:37: dedetyan@Build: /send Stampy Build
+22:23:40: dedetyan@Build: /tp Stampy dedetyan
+22:23:50: dedetyan@Build: /gamemode creative Stampy
+22:28:15: dedetyan@Build: /friend accept yude
+22:31:47: dedetyan@Build: /tp Stampy
+22:32:46: dedetyan@Build: /time set 0
+22:32:49: dedetyan@Build: /gamerule doDaylightCycle false
+22:33:16: dedetyan@Build: awawawa
+22:35:54: dedetyan@Build: /gamemode creative Stampy
+22:36:00: dedetyan@Build: /tp Stampy @p
+22:37:46: dedetyan@Build: /friend
+22:37:54: dedetyan@Build: /friend list
+22:38:37: dedetyan@Build: //wand
+22:38:54: dedetyan@Build: //move 1
+22:39:01: dedetyan@Build: //undo
+22:39:06: dedetyan@Build: //expand 1
+22:39:09: dedetyan@Build: //move 1
+22:39:19: dedetyan@Build: //undo
+22:39:21: dedetyan@Build: //move 2
+22:41:52: dedetyan@Build: /weather clear
+22:55:54: dedetyan@Lobby_01: /server Build
+22:55:59: dedetyan@Build: /tp yude
+23:17:06: dedetyan@Lobby_01: /sevrer b
+23:17:09: dedetyan@Lobby_01: /server Build
+23:19:03: dedetyan@Build: /pl
+23:46:47: dedetyan@Build: /hub
+23:47:14: dedetyan@Lobby_01: /gamemode 1

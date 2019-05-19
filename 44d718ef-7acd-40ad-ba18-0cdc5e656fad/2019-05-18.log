@@ -1,0 +1,118 @@
+00:00:36: dedetyan@Lobby_01: /hub
+00:05:13: dedetyan@Lobby_01: Hello
+00:05:15: dedetyan@Lobby_01: /v
+00:05:16: dedetyan@Lobby_01: Hello
+00:06:07: dedetyan@Lobby_01: /gm 1
+00:06:10: dedetyan@Lobby_01: /gaemode 1
+00:06:14: dedetyan@Lobby_01: /gaemode
+00:12:56: dedetyan@Lobby_01: /gm 1
+00:12:59: dedetyan@Lobby_01: /gamemode 1
+02:47:56: dedetyan@Lobby_01: /battlelevels
+02:48:13: dedetyan@Lobby_01: /battlelevels addscore Napstablock 100
+02:48:56: dedetyan@Lobby_01: /battlelevels removescore Napstablock 526.9
+02:49:08: dedetyan@Lobby_01: /battlelevels removelevel Napstablock 7
+02:49:10: dedetyan@Lobby_01: /battlelevels addscore Napstablock 100
+02:50:44: dedetyan@Lobby_01: /lp editor
+02:56:10: dedetyan@Lobby_01: /lp applyedits LhQzprEvWa
+02:56:34: dedetyan@Lobby_01: /lp user Napstablock info
+02:56:44: dedetyan@Lobby_01: /lp user Napstablock parent remove beginner
+02:56:48: dedetyan@Lobby_01: /lp user Napstablock info
+02:56:55: dedetyan@Lobby_01: /lp user Napstablock parent add default
+02:57:06: dedetyan@Lobby_01: /lp user Napstablock parent add default
+02:57:08: dedetyan@Lobby_01: /lp user Napstablock info
+03:20:13: dedetyan@Lobby_01: /autorank
+03:20:16: dedetyan@Lobby_01: /ar help
+03:20:23: dedetyan@Lobby_01: /ar leaderboard
+03:20:26: dedetyan@Lobby_01: /ar leaderboard
+03:24:57: dedetyan@Lobby_01: /dchat reload
+03:24:58: dedetyan@Lobby_01: a
+03:25:00: dedetyan@Lobby_01: /v
+03:25:01: dedetyan@Lobby_01: a
+03:25:55: dedetyan@Lobby_01: /dchat reload
+03:26:42: dedetyan@Lobby_01: /dchat reload
+03:27:02: dedetyan@Lobby_01: /dchat reload
+03:28:12: dedetyan@Lobby_01: a
+03:29:51: dedetyan@Lobby_01: /dchat reload
+03:30:09: dedetyan@Lobby_01: /dchat reload
+03:36:42: dedetyan@Lobby_01: /ver
+03:47:39: dedetyan@Lobby_01: /sc
+03:47:41: dedetyan@Lobby_01: a
+03:47:43: dedetyan@Lobby_01: aaa
+03:47:44: dedetyan@Lobby_01: /v
+03:47:45: dedetyan@Lobby_01: a
+03:47:52: dedetyan@Lobby_01: /sctoggle
+03:47:52: dedetyan@Lobby_01: a
+03:48:07: dedetyan@Lobby_01: a
+15:00:25: dedetyan@Lobby_01: /
+15:00:27: dedetyan@Lobby_01: /v
+15:00:37: dedetyan@Lobby_01: /viaver list
+15:00:41: dedetyan@Lobby_01: hi
+15:22:31: dedetyan@Vanilla: /level
+15:23:47: dedetyan@Vanilla: //hub
+15:23:48: dedetyan@Vanilla: /hub
+15:24:24: dedetyan@Lobby_01: /battlelevels
+15:24:29: dedetyan@Lobby_01: /battlelevels addscore dedetyan 75
+15:24:32: dedetyan@Lobby_01: /battlelevels
+15:24:53: dedetyan@Lobby_01: /level
+15:27:13: dedetyan@Lobby_01: /lp user yude info
+15:27:24: dedetyan@Lobby_01: /lp user dedetyan info
+15:27:41: dedetyan@Lobby_01: /lp user yude parent remove default
+15:27:44: dedetyan@Lobby_01: /lp user yude info
+15:51:02: dedetyan@Vanilla: //wand
+15:51:35: dedetyan@Vanilla: a
+15:51:47: dedetyan@Vanilla: /ping
+16:29:02: dedetyan@Lobby_01: /autorank
+16:29:05: dedetyan@Lobby_01: /ar help
+16:29:08: dedetyan@Lobby_01: /ar leaderboard
+16:29:29: dedetyan@Lobby_01: /ar set Napstablock 30
+16:29:35: dedetyan@Lobby_01: /ar leaderboard
+16:29:57: dedetyan@Lobby_01: /ar globaladd
+16:30:01: dedetyan@Lobby_01: /ar globaladd Napstablock
+16:30:03: dedetyan@Lobby_01: /ar globaladd Napstablock time
+16:30:32: dedetyan@Lobby_01: /ar globaladd Napstablock global time
+16:30:37: dedetyan@Lobby_01: /ar globaladd Napstablock time
+16:31:15: dedetyan@Lobby_01: /lp user Napstablock info
+16:37:05: dedetyan@Lobby_01: /v
+16:38:30: dedetyan@Lobby_01: /stop
+16:44:48: dedetyan@Lobby_01: /lp user Napstablock parent add beginner
+16:44:49: dedetyan@Lobby_01: /lp user Napstablock parent add beginner
+16:44:50: dedetyan@Lobby_01: /lp user Napstablock parent add beginner
+16:44:56: dedetyan@Lobby_01: /lp user Napstablock info
+16:45:04: dedetyan@Lobby_01: /lp user Napstablock parent remove default
+16:45:20: dedetyan@Lobby_01: /lp editor
+16:46:00: dedetyan@Lobby_01: /lp applyedits qNyxNgkD5T
+16:46:13: dedetyan@Lobby_01: /lp user Napstablock info
+16:46:33: dedetyan@Lobby_01: /lp editor
+16:47:11: dedetyan@Lobby_01: /lp applyedits 8POWZtDRSS
+16:47:19: dedetyan@Lobby_01: /lp user Napstablock info
+16:47:30: dedetyan@Lobby_01: /v
+16:49:09: dedetyan@Lobby_01: /dchat reload
+16:49:27: dedetyan@Lobby_01: /lp editor
+16:49:46: dedetyan@Lobby_01: /lp applyedits G26Pi2Q9M7
+16:50:59: dedetyan@Lobby_01: /lp applyedits XWWUhWxWxD
+16:51:07: dedetyan@Lobby_01: /dchat reload
+16:51:38: dedetyan@Lobby_01: /lp applyedits BaUdIRmU1L
+16:52:46: dedetyan@Lobby_01: /dchat reload
+16:55:14: dedetyan@Lobby_01: /lp editor
+16:55:37: dedetyan@Lobby_01: /lp applyedits kui4ltmMzl
+16:56:01: dedetyan@Lobby_01: /dchat reload
+16:56:42: dedetyan@Lobby_01: /lp user Napstablock info
+16:57:23: dedetyan@Lobby_01: /dchat reload
+16:58:20: dedetyan@Lobby_01: /dchat reload
+16:58:22: dedetyan@Lobby_01: aaaaaaaaaaaaa
+16:59:13: dedetyan@Lobby_01: /dchat reload
+16:59:49: dedetyan@Lobby_01: /dchat reload
+17:00:06: dedetyan@Lobby_01: aaaaaaaaaaaaa
+17:00:07: dedetyan@Lobby_01: /dchat reload
+17:00:37: dedetyan@Lobby_01: /lp user Napstablock info
+17:00:42: dedetyan@Lobby_01: /lp editor
+17:00:58: dedetyan@Lobby_01: /lp applyedits UW90ahwyKE
+17:02:05: dedetyan@Lobby_01: /dchat reload
+17:02:30: dedetyan@Lobby_01: /dchat reload
+17:02:55: dedetyan@Lobby_01: /dchat reload
+17:29:50: dedetyan@Lobby_01: /plugman load DeluxeTags
+17:32:11: dedetyan@Lobby_01: /dtag
+17:32:34: dedetyan@Lobby_01: /stop
+17:33:36: dedetyan@Lobby_01: /dtags
+17:33:53: dedetyan@Lobby_01: /tags
+17:33:58: dedetyan@Lobby_01: /tags

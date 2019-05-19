@@ -1,0 +1,124 @@
+20:08:21: dedetyan@Lobby_01: /v
+20:08:24: dedetyan@Lobby_01: /v
+20:08:24: dedetyan@Lobby_01: /v
+20:28:10: dedetyan@Lobby_01: /pl
+20:52:55: dedetyan@Lobby_01: (GUEST)
+20:54:12: dedetyan@Lobby_01: &eGUEST |
+20:54:17: dedetyan@Lobby_01: &eGUEST &8|
+20:54:22: dedetyan@Lobby_01: &6GUEST &8|
+20:54:34: dedetyan@Lobby_01: &e(GUEST)
+20:54:47: dedetyan@Lobby_01: &e[GUEST]
+20:55:27: dedetyan@Lobby_01: &5[&dGUEST&5]
+20:55:38: dedetyan@Lobby_01: &5[&dADMIN&5]
+20:55:49: dedetyan@Lobby_01: &c[&dADMIN&c]
+20:56:13: dedetyan@Lobby_01: &c[&dAdmin&c]
+20:56:20: dedetyan@Lobby_01: &5[&dAdmin&5]
+20:57:12: dedetyan@Lobby_01: &8[&eGUEST&8]
+21:02:20: dedetyan@Lobby_01: &3[&bMVP&d+&3]
+21:02:42: dedetyan@Lobby_01: /lp edo
+21:02:44: dedetyan@Lobby_01: /lp editor
+21:04:12: dedetyan@Lobby_01: &3[&bMVP&d+&3]
+21:04:29: dedetyan@Lobby_01: &2[&aVIP&6+&2]
+21:06:44: dedetyan@Lobby_01: /lp applyedits ntOYzUcvSW
+21:08:55: dedetyan@Lobby_01: &5[Developer]
+21:09:07: dedetyan@Lobby_01: &d[&5Developer&d]
+21:09:34: dedetyan@Lobby_01: &5[&dAdmin&5]
+21:09:53: dedetyan@Lobby_01: &8[&5Developer&8]
+21:14:00: dedetyan@Lobby_01: /vm
+21:14:47: dedetyan@Lobby_01: /lp applyedits 3dpiWzYuho
+21:15:40: dedetyan@Lobby_01: ./o
+21:15:43: dedetyan@Lobby_01: ./code
+21:18:25: dedetyan@Lobby_01: /gm
+21:18:27: dedetyan@Lobby_01: /vm
+21:18:59: dedetyan@Lobby_01: /pc
+21:20:59: dedetyan@Lobby_01: /lp applyedits SylNZpsBq6
+21:21:59: dedetyan@Lobby_01: /stop
+21:22:08: dedetyan@Lobby_01: /send all Vanilla
+21:27:38: dedetyan@Lobby_01: /lp user Ryou_01 info
+21:27:51: dedetyan@Lobby_01: /lp editor
+21:28:57: dedetyan@Lobby_01: /lp applyedits FuLxu2dndQ
+21:30:33: dedetyan@Lobby_01: /lp group norank info
+21:34:38: dedetyan@Lobby_01: /vn
+21:44:20: dedetyan@Lobby_01: /send all Vanilla
+21:45:27: dedetyan@Vanilla: /minecraft:weather thunder
+21:47:42: dedetyan@Vanilla: /lp editor
+21:48:14: dedetyan@Vanilla: /tps
+21:49:44: dedetyan@Vanilla: /lp applyedits 8RefFNYiqY
+21:49:53: dedetyan@Vanilla: /tps
+21:57:05: dedetyan@Vanilla: /lp editor
+21:59:11: dedetyan@Vanilla: /gm 1
+21:59:47: dedetyan@Vanilla: /tp NoHackJustPvP
+22:00:19: dedetyan@Vanilla: https://wiki.lucknetwork.jp/build_protection/
+22:06:00: dedetyan@Vanilla: /gm 3
+22:07:59: dedetyan@Vanilla: /rg
+22:09:30: dedetyan@Vanilla: /gm 1
+22:09:42: dedetyan@Vanilla: //pos1
+22:09:45: dedetyan@Vanilla: /tp NoHackJustPvP
+22:09:49: dedetyan@Vanilla: /gm 2
+22:09:50: dedetyan@Vanilla: /gm 2
+22:09:52: dedetyan@Vanilla: /gm 3
+22:09:57: dedetyan@Vanilla: /gm 1
+22:10:06: dedetyan@Vanilla: //pos2
+22:10:09: dedetyan@Vanilla: /gm 3
+22:11:23: dedetyan@Vanilla: 150~100
+22:11:42: dedetyan@Vanilla: 250~200
+22:11:57: dedetyan@Vanilla: /tp 150 20 250
+22:12:26: dedetyan@Vanilla: /gm 1
+22:12:35: dedetyan@Vanilla: /gm 3
+22:13:05: dedetyan@Vanilla: /tp 160 20 250
+22:13:12: dedetyan@Vanilla: /tp 160 0 250
+22:13:15: dedetyan@Vanilla: //pos1
+22:13:24: dedetyan@Vanilla: /tp 100 0 200
+22:13:33: dedetyan@Vanilla: /tp 100 20 200
+22:13:37: dedetyan@Vanilla: //pos2
+22:14:16: dedetyan@Vanilla: /rg define User_NoHackJustPvP_01
+22:14:28: dedetyan@Vanilla: /tp 100 20 200
+22:15:07: dedetyan@Vanilla: /rg delete User_NoHackJustPvP_01
+22:15:14: dedetyan@Vanilla: /tp 100 0 200
+22:15:23: dedetyan@Vanilla: /tp 100 0 180
+22:15:41: dedetyan@Vanilla: /tp 100 0 190
+22:15:48: dedetyan@Vanilla: /tp 100 20 190
+22:15:52: dedetyan@Vanilla: //pos1
+22:16:00: dedetyan@Vanilla: /tp 160 20 250
+22:16:07: dedetyan@Vanilla: /tp 160 0 250
+22:16:10: dedetyan@Vanilla: //pos2
+22:16:13: dedetyan@Vanilla: /rg define User_NoHackJustPvP_01
+22:17:24: dedetyan@Vanilla: /rg addowner NoHackJustPvP User_NoHackJustPvP_01
+22:17:34: dedetyan@Vanilla: /rg addowner User_NoHackJustPvP_01 NoHackJustPvP
+22:20:34: dedetyan@Vanilla: User_NoHackJustPvP_01
+22:21:59: dedetyan@Vanilla: /tell yude a
+22:22:02: dedetyan@Vanilla: /r a
+22:24:54: dedetyan@Vanilla: /glist
+22:32:40: dedetyan@Vanilla: /hub
+22:35:04: dedetyan@Lobby_01: /animatedmenu reload
+22:35:49: dedetyan@Lobby_01: /av placeholders
+22:36:17: dedetyan@Lobby_01: /animatedmenu reload
+22:37:04: dedetyan@Lobby_01: /papi
+22:37:06: dedetyan@Lobby_01: /papi help
+22:37:29: dedetyan@Lobby_01: /papi register VotingPlugin
+22:37:34: dedetyan@Lobby_01: /papi install VotingPlugin
+22:37:39: dedetyan@Lobby_01: /papi help
+22:40:39: dedetyan@Lobby_01: /papi ecloud download VotingPlugin
+22:42:30: dedetyan@Lobby_01: /animatedmenu reload
+22:43:33: dedetyan@Lobby_01: /animatedmenu reload
+22:43:49: dedetyan@Lobby_01: /papi list
+22:47:16: dedetyan@Lobby_01: /vn
+22:47:45: dedetyan@Vanilla: /gm 1
+22:48:17: dedetyan@Vanilla: /mvtp world_nether
+22:48:25: dedetyan@Vanilla: /tp NoHackJustPvP
+22:49:01: dedetyan@Vanilla: /lp user Ryou_01 parent add beginner
+22:53:59: dedetyan@Lobby_01: /v
+22:54:21: dedetyan@Lobby_01: /send all Vanilla
+23:05:51: dedetyan@Lobby_01: /send all Vanilla
+23:06:38: dedetyan@Vanilla: /gm 3
+23:07:54: dedetyan@Vanilla: /plugman unload openinv
+23:12:21: dedetyan@Vanilla: /co i
+23:14:08: dedetyan@Vanilla: /plugman load CoreProtect
+23:14:13: dedetyan@Vanilla: /co i
+23:14:16: dedetyan@Vanilla: /co i
+23:14:35: dedetyan@Vanilla: /gm 1
+23:23:15: dedetyan@Vanilla: /tp dedetyan
+23:23:42: dedetyan@Vanilla: /onlinetimea
+23:25:32: dedetyan@Vanilla: /onlinetimea set NoHackJustPvP 2d25h32m
+23:27:06: dedetyan@Vanilla: /onlinetimea set NoHackJustPvP 2days 25hours 32minutes
+23:27:31: dedetyan@Vanilla: /onlinetimea set NoHackJustPvP 2days25hours32minutes

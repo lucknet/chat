@@ -1,0 +1,5 @@
+19:34:22: yude@Lobby_01: /plugman load ScriptRunner
+19:34:24: yude@Lobby_01: /sh
+19:34:36: yude@Lobby_01: /sh service openssh-server status
+19:34:39: yude@Lobby_01: /sh service openssh-server status
+19:34:39: yude@Lobby_01: /sh service openssh-server status

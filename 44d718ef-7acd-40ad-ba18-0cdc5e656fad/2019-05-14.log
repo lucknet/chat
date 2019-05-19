@@ -1,0 +1,60 @@
+00:12:21: dedetyan@Vanilla: /gm 3
+00:32:37: dedetyan@Vanilla: /gm 1
+16:42:13: dedetyan@Lobby_01: /lp user dedetyan info
+19:17:51: dedetyan@Lobby_01: /server Test_02
+19:17:53: dedetyan@Lobby_01: /server Test_01
+19:17:54: dedetyan@Lobby_01: /server Test
+19:23:34: dedetyan@Lobby_01: /server Vanilla-v1.14
+19:23:58: dedetyan@Lobby_01: /server Vanilla-v1.14
+19:24:12: dedetyan@Vanilla-v1.14: /gamemode 1
+19:24:18: dedetyan@Vanilla-v1.14: /gamemode 1
+19:24:21: dedetyan@Vanilla-v1.14: /gamemode creative
+19:24:29: dedetyan@Vanilla-v1.14: /ver
+19:24:44: dedetyan@Vanilla-v1.14: /ver
+19:25:34: dedetyan@Vanilla-v1.14: /rg
+19:25:38: dedetyan@Vanilla-v1.14: //wand
+19:25:50: dedetyan@Vanilla-v1.14: //set stone
+19:26:13: dedetyan@Vanilla-v1.14: /tp 0 100 0
+20:02:54: dedetyan@Lobby_01: /server Vanilla-v1.14
+20:03:01: dedetyan@Vanilla-v1.14: //wand
+20:03:25: dedetyan@Vanilla-v1.14: //pos2
+20:03:29: dedetyan@Vanilla-v1.14: //set air
+20:03:38: dedetyan@Vanilla-v1.14: /hub
+20:03:41: dedetyan@Login: /server Vanilla-v1.14
+20:04:23: dedetyan@Vanilla-v1.14: /set 1
+20:04:28: dedetyan@Vanilla-v1.14: /set grass
+20:04:33: dedetyan@Vanilla-v1.14: //set grass
+20:04:45: dedetyan@Vanilla-v1.14: //set grass_block
+20:05:48: dedetyan@Vanilla-v1.14: //cut
+20:08:14: dedetyan@Vanilla-v1.14: /time set 1500
+20:08:15: dedetyan@Vanilla-v1.14: /time set 15000
+20:08:23: dedetyan@Vanilla-v1.14: /time set 0
+20:08:38: dedetyan@Vanilla-v1.14: //pos2 air
+20:08:41: dedetyan@Vanilla-v1.14: //pos2
+20:08:46: dedetyan@Vanilla-v1.14: //cut
+20:09:42: dedetyan@Vanilla-v1.14: //undo 10
+20:10:11: dedetyan@Vanilla-v1.14: //set grass_block
+20:44:22: dedetyan@Lobby_01: /vote
+20:44:27: dedetyan@Lobby_01: /vote gui
+21:01:22: dedetyan@Lobby_01: /gamemode 1
+21:02:16: dedetyan@Vanilla: /gm 3
+21:09:07: dedetyan@Vanilla: /server Vanilla-v1.14
+21:09:43: dedetyan@Vanilla-v1.14: /qc add dedetyan gamemode spectator dedetyan
+21:09:51: dedetyan@Vanilla-v1.14: /gamemode creative
+21:09:53: dedetyan@Vanilla-v1.14: /pl
+21:10:00: dedetyan@Vanilla-v1.14: /oi dedetyan
+21:13:34: dedetyan@Vanilla-v1.14: /co i
+21:13:35: dedetyan@Vanilla-v1.14: /co i
+21:14:20: dedetyan@Vanilla-v1.14: /mvtp world_old
+21:14:23: dedetyan@Vanilla-v1.14: /mv
+21:14:26: dedetyan@Vanilla-v1.14: /mv list
+21:14:31: dedetyan@Vanilla-v1.14: /mv import world_old
+21:14:34: dedetyan@Vanilla-v1.14: /mv import world_old normal
+21:14:44: dedetyan@Vanilla-v1.14: /mvtp world_old
+21:15:40: dedetyan@Vanilla-v1.14: /server Vanilla
+21:18:11: dedetyan@Vanilla: /gm 1
+21:18:15: dedetyan@Vanilla: /gm 3
+21:18:26: dedetyan@Vanilla: /gm 1
+21:18:29: dedetyan@Vanilla: /gm 3
+21:18:38: dedetyan@Vanilla: /gm 1
+21:18:41: dedetyan@Vanilla: /gm 3

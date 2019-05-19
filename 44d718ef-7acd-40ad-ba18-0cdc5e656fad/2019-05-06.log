@@ -1,0 +1,31 @@
+19:43:44: dedetyan@Lobby_01: /battlelevels
+19:43:54: dedetyan@Lobby_01: /battlelevels removescore dedetyan 771
+19:44:02: dedetyan@Lobby_01: /battlelevels addscore 100
+19:44:07: dedetyan@Lobby_01: /battlelevels addscore dedetyan 100
+19:44:11: dedetyan@Lobby_01: /hub
+19:44:22: dedetyan@Lobby_01: /battlelevels removescore dedetyan 100
+19:44:24: dedetyan@Lobby_01: /hub
+19:44:36: dedetyan@Lobby_01: /battlelevels removelevel 10
+19:44:39: dedetyan@Lobby_01: /battlelevels removelevel dedetyan 9
+19:44:41: dedetyan@Lobby_01: /battlelevels removescore dedetyan 100
+19:44:49: dedetyan@Lobby_01: /battlelevels addscore dedetyan 100
+19:44:58: dedetyan@Lobby_01: /battlelevels removescore dedetyan 100
+19:45:08: dedetyan@Lobby_01: /battlelevels removelevel dedetyan 2
+19:45:16: dedetyan@Lobby_01: /battlelevels removescore dedetyan 390
+19:45:24: dedetyan@Lobby_01: /battlelevels addscore dedetyan 390
+19:47:40: dedetyan@Lobby_01: /battlelevels removescore dedetyan 390
+19:47:44: dedetyan@Lobby_01: /battlelevels removelevel dedetyan 5
+19:47:52: dedetyan@Lobby_01: /battlelevels addscore dedetyan 250
+19:48:04: dedetyan@Lobby_01: /v
+19:49:22: dedetyan@Lobby_01: /v
+20:11:04: dedetyan@Vanilla: /luckperms editor
+20:14:15: dedetyan@Lobby_01: /gm 1
+20:14:19: dedetyan@Lobby_01: /gamemode 1
+20:14:27: dedetyan@Lobby_01: /kill @e[r=1]
+20:14:34: dedetyan@Lobby_01: /battlelevels
+20:20:56: dedetyan@Lobby_01: /luckperms creategroup Authenticated
+20:25:20: dedetyan@Lobby_01: /stop
+20:26:28: dedetyan@Lobby_01: /discord unlink dedetyan_
+20:26:51: dedetyan@Lobby_01: /discord unlink サブででちゃん#6880
+20:28:59: dedetyan@Lobby_01: /discord unlink dedetyan_
+20:31:43: dedetyan@Lobby_01: /discord unlink dedetyan_

@@ -1,0 +1,63 @@
+14:13:49: dedetyan@Lobby_01: /stop
+14:16:31: dedetyan@Lobby_01: /hub
+14:16:51: dedetyan@Lobby_01: /v
+14:17:04: dedetyan@Lobby_01: /hdb
+14:17:51: dedetyan@Lobby_01: aa
+14:18:01: dedetyan@Lobby_01: /pl
+14:32:27: dedetyan@Lobby_01: /pm
+14:32:31: dedetyan@Lobby_01: /pm dedetyan a
+14:32:36: dedetyan@Lobby_01: a
+14:32:38: dedetyan@Lobby_01: /pm dedetyan a
+14:32:42: dedetyan@Lobby_01: /tpg
+14:32:45: dedetyan@Lobby_01: /toggle
+14:32:51: dedetyan@Lobby_01: /togglepm
+14:32:52: dedetyan@Lobby_01: a
+14:32:56: dedetyan@Lobby_01: /pm dedetyan a
+14:32:58: dedetyan@Lobby_01: a
+14:38:47: dedetyan@Lobby_01: /toggledownfall
+14:38:49: dedetyan@Lobby_01: /toggledownfall
+14:39:02: dedetyan@Lobby_01: /toggleplace
+14:39:11: dedetyan@Lobby_01: /jecon
+14:39:13: dedetyan@Lobby_01: /jecon top
+14:39:33: dedetyan@Lobby_01: /jecon help
+17:45:51: dedetyan@Vanilla: こんばんはー
+17:46:07: dedetyan@Vanilla: /gm 3
+17:46:42: dedetyan@Vanilla: /luckperms editor
+17:48:34: dedetyan@Vanilla: /luckperms applyedits KAGlmCFqk1
+17:49:04: dedetyan@Vanilla: /luckperms user g1000 parent add beginner
+17:52:24: dedetyan@Vanilla: /ontime reload
+17:52:31: dedetyan@Vanilla: /ontime top
+17:53:11: dedetyan@Vanilla: /lp user g1000 info
+17:53:33: dedetyan@Vanilla: /lp editor
+17:54:55: dedetyan@Vanilla: /lp group default clear
+17:55:01: dedetyan@Vanilla: /lp editor
+17:55:15: dedetyan@Vanilla: /lp user g1000 info
+17:57:12: dedetyan@Vanilla: /ontime top
+17:59:48: dedetyan@Vanilla: /lp groupcreate
+18:00:02: dedetyan@Vanilla: /lp creategroup Member
+18:00:12: dedetyan@Vanilla: /lp user OCHA_Tea parent add member
+18:00:24: dedetyan@Vanilla: /lp editor
+18:01:09: dedetyan@Vanilla: /lp deletegroup default
+18:01:38: dedetyan@Vanilla: /lp user NE_GI parent add member
+18:02:08: dedetyan@Vanilla: /lp user Napstablock parent add member
+18:02:27: dedetyan@Vanilla: /lp user yamadash parent add member
+18:04:47: dedetyan@Vanilla: /ontime top
+18:05:33: dedetyan@Vanilla: /lp user NoHackJustPvP parent add member
+18:06:46: dedetyan@Vanilla: rt/lp applyedits iMq6IsYtZR
+18:06:50: dedetyan@Vanilla: miss
+18:06:58: dedetyan@Vanilla: /lp applyedits iMq6IsYtZR
+18:07:04: dedetyan@Vanilla: /gm 1
+18:07:07: dedetyan@Vanilla: /co i
+18:07:18: dedetyan@Vanilla: /oi eytt
+18:07:27: dedetyan@Vanilla: /ontime eytt
+18:08:37: dedetyan@Vanilla: /co rollback u:eytt t:90d r:#global
+18:08:54: dedetyan@Vanilla: /oi yut_q
+18:09:03: dedetyan@Vanilla: /ontime yut_q
+18:09:29: dedetyan@Vanilla: /co rollback u:yut_q t:90d r:#global
+18:09:54: dedetyan@Vanilla: /oi mm_ryuu
+18:10:00: dedetyan@Vanilla: /oi mm_ryu
+18:10:13: dedetyan@Vanilla: /ontime mm_ryu
+18:10:33: dedetyan@Vanilla: /co rollback u:mm_ryuu t:90d r:#global
+18:10:38: dedetyan@Vanilla: /co rollback u:mm_ryu t:90d r:#global
+18:12:11: dedetyan@Vanilla: /ban mmryu Griefing
+18:13:27: dedetyan@Vanilla: /gm 3
